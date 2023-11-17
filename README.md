@@ -10,7 +10,6 @@
     <img align="center" height="30" width="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
     <img align="center" height="30" width="40" alt="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-    <img align="center" height="30" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <div  align="center">
   <br>
